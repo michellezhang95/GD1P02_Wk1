@@ -6,7 +6,8 @@
 class SingleLinkedList {
 
 private:
-	CNode* firstNode;
+	CNode* head; //head
+	int size, counter;
 
 public:
 	SingleLinkedList();
