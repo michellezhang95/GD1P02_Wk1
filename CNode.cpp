@@ -1,5 +1,5 @@
 #include "CNode.h"
-
+//written by Michelle Zhang
 //Constructor
 CNode::CNode() {
 	data = 0;

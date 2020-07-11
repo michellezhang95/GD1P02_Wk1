@@ -1,7 +1,7 @@
 #include "SingleLinkedList.h"
 #include "CNode.h"
 #include <iostream>
-
+//Written by Michelle Zhang 
 //single linked list class already declares the first node
 CNode* temp = new CNode();
 CNode* temp2 = new CNode();

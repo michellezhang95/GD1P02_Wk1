@@ -1,7 +1,7 @@
 #include <iostream>
 #include "CNode.h"
 #include "SingleLinkedList.h"
-
+//written by Michelle Zhang
 using namespace std;
 int main() {
 	//create nodes returns the memory address of the new object
