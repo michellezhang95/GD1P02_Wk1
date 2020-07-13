@@ -82,7 +82,6 @@ void SingleLinkedList::deleteFromTheEnd(int data) {
 			temp->setNextNode(NULL);
 		}
 	}
-	
 }
 
 //search for node 
