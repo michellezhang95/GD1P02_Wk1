@@ -13,6 +13,7 @@ SingleLinkedList::SingleLinkedList() {
 
 SingleLinkedList::~SingleLinkedList() {
 	//kill me now
+	std::cout << "destructor called";
 
 }
 

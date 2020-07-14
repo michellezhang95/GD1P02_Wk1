@@ -25,6 +25,6 @@ int main() {
 	sl->display();
 	cout << endl;
 	cout << "Exists node with value of 55?:     ";
-	 cout << sl->search(55);
+	cout << sl->search(55);
 	return(0);
 }
